@@ -9,7 +9,7 @@
     width: 100%;
     position: relative;
     background-color: aquamarine;
-    background-image: url('https://d3hlpvman0fu3y.cloudfront.net/05-07-2019/t_9fdedddd06124bbba8cf3162ef700c11_name__Videos_2017_00_02_26_25_Still005.png');
+    background-image: url('https://t1.ev.ltmcdn.com/es/posts/1/2/8/caracteristicas_del_planeta_tierra_que_hacen_posible_la_vida_1821_orig.jpg');
     /*Esto es para arreglar/acomodar imagen de fondo*/
     background-position: center center;
     background-size: cover;
@@ -63,6 +63,7 @@
     position: absolute;
     top: 50%;
     left: 3%;
+    color: white;
 }
 
 .temperatura{
@@ -70,6 +71,7 @@
     position: absolute;
     top: 55%;
     left: 3%;
+    color: white;
 }
 
 .descripcion{
@@ -77,6 +79,7 @@
     position: absolute;
     bottom: 35%;
     left: 3%;
+    color: white;
 }
 
 .container ul {
@@ -84,6 +87,7 @@
     bottom: 3%;
     left: 3%;
     list-style-type: none;
+    color: white;
 }
 
 .container ul li {
