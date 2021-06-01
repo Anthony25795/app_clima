@@ -9,7 +9,7 @@
     width: 100%;
     position: relative;
     background-color: aquamarine;
-    background-image: url('https://www.negociosypetroleo.com/wp-content/uploads/2017/11/AA_cracked-earth-smaller-for-email1.jpg');
+    background-image: url('https://d3hlpvman0fu3y.cloudfront.net/05-07-2019/t_9fdedddd06124bbba8cf3162ef700c11_name__Videos_2017_00_02_26_25_Still005.png');
     /*Esto es para arreglar/acomodar imagen de fondo*/
     background-position: center center;
     background-size: cover;
@@ -21,10 +21,10 @@
     height: 60px;
     width: 100%;
     position: absolute;
-    left: 0;
-    top: 6%;
+    left: 1%;
+    top: 5%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-direction: row;
 }
 .container input{
@@ -46,4 +46,47 @@
     cursor: pointer;
     width: 150px;
     background: #fff;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.iconoClima {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 15%;
+    left: -2%;
+}
+
+.paisCiudad{
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 3%;
+}
+
+.temperatura{
+    font-size: 40px;
+    position: absolute;
+    top: 55%;
+    left: 3%;
+}
+
+.descripcion{
+    font-size: 30px;
+    position: absolute;
+    bottom: 35%;
+    left: 3%;
+}
+
+.container ul {
+    position: absolute;
+    bottom: 3%;
+    left: 3%;
+    list-style-type: none;
+}
+
+.container ul li {
+    font-size: 22px;
+    margin: 20px 0;
 }
